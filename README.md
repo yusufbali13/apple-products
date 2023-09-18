@@ -3,10 +3,10 @@
     <img src="https://avatars.githubusercontent.com/u/119419061?v=4" width="130" height="130">
   </a>
   
-  <h2 align="center">Milestone App</h2>
+  <h2 align="center">Apple App</h2>
 
    <p align="center">
-   A milestone app built with React, React Router, Redux Toolkit, and MUI Based Components.
+   A apple app built with React, React Bootstrap, Bootstrap, Sass, and font-awesome Based Components.
   </p>
 
   <p>
@@ -57,5 +57,3 @@
 <!-- add asset here later -->
 
 ![inter](https://github.com/yusufbali13/milestone-project/assets/119419061/94835b82-76ce-4f10-b9ba-5802b27ac4b3)
-
-A milestone app built with React, React Router, Redux Toolkit, and MUİ Based Components.
