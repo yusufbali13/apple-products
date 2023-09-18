@@ -1,0 +1,16 @@
+@import "./scss/mixins";
+@import "./scss/reset";
+@import "./scss/variables";
+@import url("https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre&family=Roboto:wght@900&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+p {
+  font-family: "Frank Ruhl Libre", serif;
+
+  color: white;
+}
