@@ -56,4 +56,4 @@
 
 <!-- add asset here later -->
 
-![inter](https://github.com/yusufbali13/milestone-project/assets/119419061/94835b82-76ce-4f10-b9ba-5802b27ac4b3)
+![inter-min](https://github.com/yusufbali13/apple-products/assets/119419061/0671ecc3-df74-40b4-8583-3861c9f9958a)
